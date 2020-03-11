@@ -26,13 +26,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="362.89121"
-     inkscape:cy="599.88127"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="100.67039"
+     inkscape:cy="514.68094"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer11"
      showgrid="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1870"
      inkscape:window-height="1052"
@@ -85,59 +85,59 @@
        id="guide872"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="102.3642,142.9892"
+       position="128.13393,153.26935"
        orientation="-53.626148,92.883213"
        id="guide924"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="102.3642,142.9892"
+       position="102.3642,138.39119"
        orientation="38.465443,66.624091"
-       id="guide928"
+       id="guide988"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="54.981066,170.34587"
+       position="102.3642,161.01786"
        orientation="-53.626148,92.883213"
-       id="guide932"
+       id="guide992"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="149.74737,170.34589"
+       position="102.3642,161.01786"
        orientation="38.465443,66.624091"
-       id="guide936"
+       id="guide996"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="102.3642,156.61994"
+       position="54.981066,165.74786"
+       orientation="-53.626148,92.883213"
+       id="guide1000"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="149.74737,165.74788"
        orientation="38.465443,66.624091"
-       id="guide940"
+       id="guide1004"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="102.3642,156.61994"
+       position="102.3642,175.38095"
        orientation="-53.626148,92.883213"
-       id="guide944"
+       id="guide1021"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="102.3642,174.527"
-       orientation="-53.626148,92.883213"
-       id="guide959"
+       position="111.71866,174.92791"
+       orientation="38.465443,66.624091"
+       id="guide1025"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="102.3642,174.527"
-       orientation="22.505046,72.039761"
-       id="guide971"
+       position="119.73675,180.87465"
+       orientation="38.465443,66.624091"
+       id="guide1029"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="102.3642,180.13966"
-       orientation="22.505046,72.039761"
-       id="guide975"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="136.80101,169.38168"
+       position="138.22208,170.20214"
        orientation="1,0"
-       id="guide978"
+       id="guide1032"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="130.49286,165.73968"
+       position="129.063,164.91415"
        orientation="1,0"
-       id="guide980"
+       id="guide1034"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -156,7 +156,7 @@
      inkscape:label="base-img"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline;opacity:0.43300003">
+     style="display:none;opacity:0.43300003">
     <image
        y="84.766373"
        x="32.789433"
@@ -5636,54 +5636,55 @@ sW2jOBYhIsUNNc5F3yRLZIM/X5fL3oNifQfo1iqyxvUx7LwDpTRskfBoB/jGeKj75H+/P1S3zt9m
        d="M 77.794888,46.195866 95.422512,56.373181"
        id="path848"
        inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path961"
-       d="M 77.794888,46.195866 95.422512,56.373181"
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 158.93522,43.166716 19.06052,5.95446"
-       id="path967"
-       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="top">
+     id="layer8"
+     inkscape:label="obj 1">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 54.981064,120.14374 102.36422,92.787059 149.74737,120.14373 102.3642,147.50041 Z"
-       id="path946"
+       id="path1009"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 66.785632,119.83876 102.3642,99.29742 137.94281,119.83874 102.3642,140.38006 Z"
-       id="path948"
+       d="m 74.576333,119.9388 27.787867,-16.04333 27.7879,16.04332 -27.7879,16.04335 z"
+       id="path1011"
        inkscape:connector-curvature="0" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer7"
-     inkscape:label="q-tail" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="left">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 54.981064,126.65413 47.383136,27.35667 2e-5,48.20296 -47.383153,-27.35668 z"
-       id="path953"
+       d="m 54.981064,120.14374 v 11.1084 l 47.383136,27.35667 47.38317,-27.35669 v -11.10839 l -47.38317,27.35668 z"
+       id="path1017"
        inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="right">
+     id="layer9"
+     inkscape:label="obj 2">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 102.3642,154.0108 47.38317,-27.35669 c 0,0 0,48.20299 0,48.20299 l -47.38315,27.35666 z"
-       id="path955"
+       d="m 54.981064,131.25214 -5e-6,43.60494 47.383141,27.35669 v -43.60496 z"
+       id="path1013"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="obj 3">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.3642,158.60881 47.38317,-27.35669 v 43.60498 l -47.38317,27.35665 z"
+       id="path1015"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="obj 4">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 106.64908,119.14517 9.15908,-5.28799 22.41392,12.94068 v 54.71336 l -9.15908,5.28799 v -54.71336 z"
+       id="path1036"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
