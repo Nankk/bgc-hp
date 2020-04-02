@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="208.79417"
-     inkscape:cy="781.77363"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="122.30672"
+     inkscape:cy="738.55398"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -110,9 +110,54 @@
        inkscape:locked="false"
        id="guide1214" />
     <sodipodi:guide
-       position="82.344703,176.00424"
+       position="91.706473,180.90885"
        orientation="-0.5,0.8660254"
        id="guide1216"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="81.86312,204.64152"
+       orientation="-0.5,0.8660254"
+       id="guide1218"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="87.202099,207.72399"
+       orientation="1,0"
+       id="guide1220"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="85.401152,193.25724"
+       orientation="1,0"
+       id="guide1222"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="80.398717,190.35984"
+       orientation="-0.5,0.8660254"
+       id="guide1224"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="81.325235,200.91468"
+       orientation="1,0"
+       id="guide1226"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="81.325233,178.82908"
+       orientation="-0.5,0.8660254"
+       id="guide1228"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="81.325233,200.91466"
+       orientation="-0.5,0.8660254"
+       id="guide1230"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="82.965771,196.07515"
+       orientation="1,0"
+       id="guide1232"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="85.40112,189.74405"
+       orientation="-0.5,0.8660254"
+       id="guide1234"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -270,11 +315,11 @@
        style="font-style:normal;font-weight:normal;font-size:45.22234344px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13055861"
        id="text851-3">
       <path
-         d="m 84.305173,137.20341 2.558263,-28.21346 2.738072,0 3.97462,0 h 2.119797 6.094415 1.0599 l -3.26802,10.42233 1.4132,12.01219 h -1.722337 l -4.725382,0 -2.986077,-0.003 -0.524988,5.78975 z m -20.62702,-24.32717 0.220812,-2.64975 7.59594,0 0.132488,-1.94314 h 7.065991 l -0.132488,1.94314 6.889342,0 -0.220812,2.64975 h -1.059899 l -0.794924,4.41625 1.63401,0 -0.220812,2.64974 -22.434522,0 0.220812,-2.64974 2.826397,0 -0.08832,-4.41625 z m -0.839087,21.55127 1.104061,-12.58629 0.883249,0 h 6.536042 4.813706 l 6.712692,0 0.706599,0 -1.104061,12.58629 -0.662437,0 -6.756854,0 h -4.813706 -6.49188 z m 29.235539,-5.65279 2.163959,0 -1.104061,-9.36244 1.898985,-7.77259 -1.678173,0 z m -20.04975,-15.89848 0.08832,4.41625 h 4.548731 l 0.794924,-4.41625 z m -1.545686,18.90153 4.813707,0 0.662436,-7.28681 -4.813706,0 z"
+         d="m 84.305173,137.20341 2.558263,-28.21346 2.738072,0 3.97462,0 2.119797,0 h 6.094415 l 1.0599,0 -1.19414,13.15058 -2.321076,-0.003 c -0.292176,3.22665 -0.877617,9.67957 -0.877617,9.67957 l -6.930987,-0.008 -0.48978,5.40137 z m -20.62702,-24.32717 0.220812,-2.64975 7.59594,0 0.132488,-1.94314 h 7.065991 l -0.132488,1.94314 6.889342,0 -0.220812,2.64975 h -1.059899 l -0.794924,4.41625 h 1.63401 l -0.220812,2.64974 -22.434522,0 0.220812,-2.64974 2.826397,0 -0.08832,-4.41625 z m -0.839087,21.55127 1.104061,-12.58629 0.883249,0 6.536042,0 4.813706,0 6.712692,0 h 0.706599 l -1.104061,12.58629 h -0.662437 l -6.756854,0 h -4.813706 -6.49188 z m 28.962693,-5.65466 1.678004,0.002 0.60232,-6.6426 -1.67801,-0.002 0.246507,-2.71851 3.792303,0.004 0.704901,-7.77411 -3.792469,-0.002 z m -19.776904,-15.89661 0.08832,4.41625 4.548731,0 0.794924,-4.41625 z m -1.545686,18.90153 4.813707,0 0.662436,-7.28681 -4.813706,0 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'851ゴチカクット';-inkscape-font-specification:'851ゴチカクット';fill:#ffffff;stroke-width:1.13055861"
          id="path895"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     </g>
   </g>
   <g
